@@ -5,7 +5,7 @@ body {
   margin: 0;
   padding: 0;
   font-family: "Hanalei Fill", system-ui;
-  background: linear-gradient(135deg, #f06, #f79);
+  background: linear-gradient(135deg, rgb(0, 225, 255), #9f68a6);
   color: white;
   overflow-x: hidden;
   font-size: 160%;
@@ -62,7 +62,7 @@ section {
 .about-box,
 .feature-box,
 .feature-box1 {
-    background: linear-gradient(120deg, #feffd2, #a9a9a9, #83bac6, #6aefe4, #4ff68b);
+    background: linear-gradient(135deg, rgb(0, 225, 255), #9f68a6);
   padding: 20px;
   margin: 20px;
   border-radius: 15px;
